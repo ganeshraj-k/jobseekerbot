@@ -1,0 +1,15 @@
+Applicant Profile Summary:
+
+Ganesh Raj Kyatham is a skilled data professional, with a strong foundation in computer science and data science. He completed his BTech in Computer Science and Engineering from the Indian Institute of Technology, Indore, in May 2019, following which he pursued MS in Data Science from Rutgers University, earning a CGPA of 3.75, due to graduate in May 2024.
+
+His work experience includes roles as a Data Analyst at Rutgers UCM and Deloitte Consulting, and a Data Engineer stint at MAQ Software. At Rutgers UCM, he utilized learning data to predict student course outcomes with a 78% success rate, and at Deloitte, his remarkable work included using K -Means clustering to categorize restaurant patrons, which led to a 74% increase in takeaway orders, and reducing customer churn by 30% in bank settings. With MAQ software, he established an ETL pipeline that consolidated large data marts.
+
+He has executed successful projects like designing a web application with 200 trending tweets for efficient search and building an AI LinkedIn Application bot for automated job applications. He is seasoned in languages such as Python and SAS, and cloud computing technologies like AWS and Azure.
+
+Based on his certifications as an AWS Machine Learning Specialist and AWS Cloud Practitioner, Ganesh possesses a strong understanding of Machine Learning and Cloud Services.
+
+
+EHR experience 1
+medical records experience 1
+ 
+Experience with all other tools 1
